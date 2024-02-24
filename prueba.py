@@ -2,7 +2,7 @@
 min_car = 5
 max_car = 50
 max_phone_digits = 10
-
+test=() 
 
 #defino una función por si necesito reutilizar este bloque de código
 def registrar_usuario():
